@@ -1,0 +1,19 @@
+	<style type="text/css">
+		.triangle {
+			width: 0;
+			height: 0;
+			border-bottom: 40px solid red;
+			border-left: 40px solid transparent;
+			margin-left: 110px;
+		}
+		.square{
+			width: 100px;
+			height: 100px;
+			background-color: red;
+		}
+	</style>
+  
+<div style="margin: 11rem;    width: 20rem;">
+  <div class="triangle"></div>
+  <div class="square">&nbsp;</div>
+</div>
